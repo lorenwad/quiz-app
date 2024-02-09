@@ -6,7 +6,7 @@
     * BONUS: The alert (has the id `alert`)
 */
 
-// variables in const
+// variables in consts
 const form = document.getElementById("quiz-form");
 const answers = Array.from(document.querySelectorAll(".answer"));
 const questionItems = document.querySelectorAll(".question-item");
