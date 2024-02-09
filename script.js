@@ -5,6 +5,8 @@
     * BONUS: The questions (have the class `question-item`)
     * BONUS: The alert (has the id `alert`)
 */
+
+// variables
 const form = document.getElementById("quiz-form");
 const answers = Array.from(document.querySelectorAll(".answer"));
 const questionItems = document.querySelectorAll(".question-item");
